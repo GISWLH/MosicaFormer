@@ -1,4 +1,4 @@
-# MosicFormer
+# MosicaFormer
 A Transformer model for super-resolution  
 We developed a swin Transformer & Masked AutoEncoder based SR model  
 Aiming for combining Landsat (30m) and MODIS (500m) satellite  
